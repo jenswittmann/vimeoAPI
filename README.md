@@ -1,4 +1,4 @@
-vimeoAPI
-========
+# vimeoApi
 
-MODx Snippet to get Vimeo Videos
+Get Vimeo videos of a user.  
+Use it like this: [!vimeoApi? &user=`user976539`!]
